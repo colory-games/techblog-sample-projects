@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "MyDivide",
+  "Description": "Blueprint Node: MyDivide",
+  "Category": "Other",
+  "CreatedBy": "nutti",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "MyDivide",
+      "Type": "UncookedOnly",
+      "LoadingPhase": "PreLoadingScreen"
+    }
+  ]
+}
